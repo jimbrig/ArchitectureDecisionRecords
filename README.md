@@ -1,5 +1,8 @@
 # ArchitectureDecisionRecords
 
+> [!IMPORTANT]
+> This project is now maintained on [SourceHut](https://git.sr.ht/~ajoberstar/ArchitectureDecisionRecords).
+
 [![PowerShell Gallery](https://img.shields.io/powershellgallery/dt/ArchitectureDecisionRecords.svg)](https://www.powershellgallery.com/packages/ArchitectureDecisionRecords)
 
 A PowerShell module for working with [ArchitectureDecisionRecords](http://thinkrelevance.com/blog/2011/11/15/documenting-architecture-decisions) (ADRs).
